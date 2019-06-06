@@ -76,5 +76,6 @@ function parseDir(dataDirFilePath) {
   })
 }
 
-parseTest('./data/diffur.txt');
+// parseTest('./data/diffur.txt');
+parseDir('data');
 
