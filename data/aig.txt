@@ -114,9 +114,9 @@
 в) має два однакових рядки 
 г) має два однакових стовпці 
 
-20. Знайти добуток $\begin{pmatrix} 1 & 2 & 3 \end{pmatrix} \cdot \begin{pmatrix} 1&-1&2\end{pmatrix} $
-а) $5$
-б) $\begin{pmatrix} 1& -1& 2 \\ 2& -2 & 4 \\ 3 &-3 & 6 \end{pmatrix}$
+20. Знайти добуток $\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} \cdot \begin{pmatrix} 1&-1&2\end{pmatrix} $
+а) $\begin{pmatrix} 1& -1& 2 \\ 2& -2 & 4 \\ 3 &-3 & 6 \end{pmatrix}$
+б) $5$
 в) $\begin{pmatrix} 1& 2& 3 \\ 1 & -2 & -3 \\ 2& 4 & 6 \end{pmatrix} $
 г) помножити не можна
 
