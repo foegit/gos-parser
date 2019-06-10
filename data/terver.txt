@@ -320,7 +320,7 @@
 
 54. Bкажіть вірне серед наведених тверджень відносно розподілу $F(x)$ випадкової величини $\xi$.
 а) $P\{a\le \xi\le c\}\le \int\limits_{a}^{b}f(x), a<c<b$
-б) $P\{a\le \xi\le c\}\le \int\limits_{a}^{b}f(x), a<c<b$
+б) $P\{a\le \xi\le c\}\le \int\limits_{a}^{b}f(x), a<b<c$
 в) $P\{a\le \xi\le c\}> \int\limits_{a}^{b}f(x), a<c<b$
 г) $P\{a\le \xi\le c\}\ge \int\limits_{a}^{b}f(x), a<c\le b$
 
